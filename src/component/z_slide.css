@@ -1,0 +1,68 @@
+.cont{
+    width: 900px;
+}
+.carr{
+    display: grid;
+    grid-auto-flow: column;
+    scroll-behavior: auto;
+    gap: 1.2rem;
+    overflow-y: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+}
+.carr::-webkit-scrollbar{
+    display: none;
+}
+.card{
+    scroll-snap-align: start;
+    border-radius: 30px;
+    min-height: 200px;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card:nth-child(odd){
+    cursor: e-resize;
+}
+.card:nth-child(even){
+    cursor: e-resize;
+}
+
+.container{
+    width: 950px;
+    }
+
+    .carrousel{
+        display: grid;
+        grid-auto-flow: column;
+        scroll-behavior: auto;
+        gap: 1.2rem;
+        overflow-y: auto;
+        overscroll-behavior-x: contain;
+        scroll-snap-type: x mandatory;
+        scrollbar-width: none;
+    }
+    
+    .carrousel::-webkit-scrollbar{
+        display: none;
+    }
+
+    .card{
+        scroll-snap-align: start;
+        border-radius: 30px;
+        min-height: 200px;
+        min-width: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card:nth-child(odd){
+        cursor: e-resize;
+    }
+
+    .card:nth-child(even){
+        cursor: e-resize;
+    }
