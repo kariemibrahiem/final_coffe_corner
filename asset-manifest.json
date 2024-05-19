@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/final_coffe_corner/static/css/main.ed88b147.css",
+    "main.js": "/final_coffe_corner/static/js/main.3fb283e5.js",
+    "static/media/pr_2.png": "/final_coffe_corner/static/media/pr_2.734fbfc74e3a373e0db9.png",
+    "static/media/pr_4.png": "/final_coffe_corner/static/media/pr_4.4f80b03746c865310d1b.png",
+    "static/media/google.png": "/final_coffe_corner/static/media/google.80956092d6e3e29c5651.png",
+    "static/media/coffee-beans-bg.png": "/final_coffe_corner/static/media/coffee-beans-bg.0e566251cd5733652313.png",
+    "static/media/pr_1.png": "/final_coffe_corner/static/media/pr_1.700e9d7db65d4e939ee3.png",
+    "static/media/pr_3.png": "/final_coffe_corner/static/media/pr_3.74cb12983801272f1b7c.png",
+    "static/media/coffee2.png": "/final_coffe_corner/static/media/coffee2.43557c0f0868b86949d9.png",
+    "static/media/coffee-white.png": "/final_coffe_corner/static/media/coffee-white.35395c1e16d672eada4d.png",
+    "static/media/nice.jpg": "/final_coffe_corner/static/media/nice.825de379dc12fc0202ec.jpg",
+    "static/media/coffee-footer.jpg": "/final_coffe_corner/static/media/coffee-footer.65d3ec9d26021553a60f.jpg",
+    "static/media/apple_white.png": "/final_coffe_corner/static/media/apple_white.060a05dd46bef221230c.png",
+    "static/media/s_4.png": "/final_coffe_corner/static/media/s_4.40c25b9bec90c0bb6d23.png",
+    "static/media/s_2.png": "/final_coffe_corner/static/media/s_2.ef4249eddafc3c621f1d.png",
+    "static/media/s_1.png": "/final_coffe_corner/static/media/s_1.fef2f8555621ce760c33.png",
+    "static/media/s_3.png": "/final_coffe_corner/static/media/s_3.d0afce81deb34b0a76af.png",
+    "static/media/coffee_logo.png": "/final_coffe_corner/static/media/coffee_logo.92261539d3d24f61d392.png",
+    "static/media/coffee-texture.jpg": "/final_coffe_corner/static/media/coffee-texture.4b6988fd7d02689e25d6.jpg",
+    "static/media/slick.svg": "/final_coffe_corner/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/final_coffe_corner/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/final_coffe_corner/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/final_coffe_corner/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/final_coffe_corner/index.html",
+    "main.ed88b147.css.map": "/final_coffe_corner/static/css/main.ed88b147.css.map",
+    "main.3fb283e5.js.map": "/final_coffe_corner/static/js/main.3fb283e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed88b147.css",
+    "static/js/main.3fb283e5.js"
+  ]
+}
